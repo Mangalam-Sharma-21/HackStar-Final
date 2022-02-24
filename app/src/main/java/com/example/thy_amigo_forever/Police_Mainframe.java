@@ -68,7 +68,7 @@ public class Police_Mainframe extends AppCompatActivity {
         });
 
 
-//JI
+//JIja
 
         dialog.show();
 
